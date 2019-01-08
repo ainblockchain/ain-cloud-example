@@ -1,0 +1,11 @@
+{
+  "name": "Example Code for AIN Cloud Beta",
+  "listed": true,
+  "link": "https://github.com/ainblockchain/ain-cloud-example",
+  "readme": "AIN.md",
+  "branch": "master",
+  "entry": "gen_prime.py",
+  "docker": {
+    "name": "backend.ai"
+  }
+}
