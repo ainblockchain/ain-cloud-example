@@ -12,7 +12,7 @@ In summary, 1) sign up on [`cloud.ainetwork.ai/`](https://cloud.ainetwork.ai/) a
 
 ### gen_prime.py
 
-This is a naive python code to generate all prime numbers in given range.
+This is naive python source code to generate all the prime numbers in given range.
 Try to run the code by pressing the "Run" button [`AIN Cloud Beta`](https://cloud.ainetwork.ai/)
 and see if it gives correct answers:
 
@@ -67,4 +67,4 @@ The expected output is the prime numbers generated:
 97
 ```
 
-You can try to improve the source code for better performance.
+Try to modify the code to improve the performance.
