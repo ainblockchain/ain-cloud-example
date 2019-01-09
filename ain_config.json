@@ -6,6 +6,7 @@
   "branch": "master",
   "entry": "gen_prime.py",
   "docker": {
-    "name": "backend.ai"
+    "name": "backend.ai",
+    "type": "backend.ai"
   }
 }
