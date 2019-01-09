@@ -5,8 +5,9 @@
   "readme": "AIN.md",
   "branch": "master",
   "entry": "gen_prime.py",
-  "docker": {
-    "name": "backend.ai",
-    "type": "backend.ai"
+  "executor": {
+    "type": "backend_ai",
+    "backend_ai_params": {
+    }
   }
 }
