@@ -2,9 +2,9 @@
 
 An example code repository for [`AI Network`](https://ainetwork.ai/).
 
-## How to run on [`AIN Cloud Beta`](https://cloud.ainetwork.ai/)
+## How to run on [`AIN Cloud beta`](https://cloud.ainetwork.ai/)
 
-*See [`AIN.md`](https://github.com/ainblockchain/ain-cloud-example/blob/master/AIN.md) for a guide to play with the code on [`AIN Cloud Beta`](https://cloud.ainetwork.ai/), which is a product provided by [`AI Network`](https://ainetwork.ai/).*
+*See [`AIN.md`](https://github.com/ainblockchain/ain-cloud-example/blob/master/AIN.md) for a guide to play with the code on [`AIN Cloud beta`](https://cloud.ainetwork.ai/), which is a product provided by [`AI Network`](https://ainetwork.ai/).*
 
 # License 
 
