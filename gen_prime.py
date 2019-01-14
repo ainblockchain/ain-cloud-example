@@ -1,4 +1,4 @@
-# Example python code for demonstrating AIN Cloud Beta.
+# Example python code for demonstrating AIN Cloud beta.
 #
 # This code prints out all the prime numbers found in the given range.
 
