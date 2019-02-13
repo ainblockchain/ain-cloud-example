@@ -5,7 +5,7 @@ You can run **ain-cloud-example** code on [`AIN Cloud beta`](https://cloud.ainet
 ## How to get ready to use AIN Cloud beta
 
 The payment in [`AIN Cloud beta`](https://cloud.ainetwork.ai/) is done based on AIN Ethereum Token (Token Symbol: *AIN*), so you need to prepare some account balance before getting started.
-Fortunately, AIN Cloud beta provides welcome bonus for new users. Please refer to *AIN Cloud beta Guide (coming soon)* for the details.
+Fortunately, AIN Cloud beta provides welcome bonus for new users. Please refer to *[`How to buy and use AIN + Get free credits`](https://medium.com/ai-network/aincloudbeta-3-buyain-c03d727fe5ee)* for the details.
 In summary, 1) sign up on [`cloud.ainetwork.ai/`](https://cloud.ainetwork.ai/) and finish the email verification step to get sign-up bonus (~ 150 AIN) and 2) complete KYC process on [`cloud.ainetwork.ai/buyain`](https://cloud.ainetwork.ai/buyain) to get extra bonus (~ 150 AIN).
 
 ## How to play with ain-cloud-example code on AIN Cloud beta
