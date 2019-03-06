@@ -13,7 +13,7 @@ In summary, 1) sign up on [`cloud.ainetwork.ai/`](https://cloud.ainetwork.ai/) a
 ### gen_prime.py
 
 This is naive python source code to generate all the prime numbers in given range.
-Try to run the code by pressing the "Run" button [`AIN Cloud beta`](https://cloud.ainetwork.ai/)
+Try to run the code by pressing the "Run" button on [`AIN Cloud beta`](https://cloud.ainetwork.ai/)
 and see if it gives correct answers:
 
 ```bash
